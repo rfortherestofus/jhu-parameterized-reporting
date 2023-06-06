@@ -49,7 +49,9 @@ Talk about OCF reports
 
 ---
 
-![](assets/ivac-reports.png)
+[![](assets/ivac-reports.png)](https://www.jhsph.edu/ivac/resources/pdpr/)
+
+
 
 ---
 
@@ -365,7 +367,7 @@ Explain map function to make list column
 
 [Chapter from R Without Statistics ➜](https://book.rwithoutstatistics.com/parameterized-reports-chapter.html)
 
-[GitHub Repository ➜](https://github.com/rfortherestofus/rmedicine-parameterized-reporting)
+[GitHub Repository ➜](https://github.com/rfortherestofus/jhu-parameterized-reporting)
 
 ---
 
