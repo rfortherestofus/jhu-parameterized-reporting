@@ -24,7 +24,7 @@ title-slide-attributes:
 # About Me
 
 ::: {.notes}
-http://parameterizedreporting.rfortherestofus.com/slides.html
+https://jhuparameterizedreporting.rfortherestofus.com/slides.html#/title-slide
 :::
 
 ---
