@@ -63,9 +63,9 @@ library(tidyverse)
 library(NHSRdatasets)
 
 ae_attendances %>% 
-  distinct(org_code, .keep_all = TRUE) %>% 
-  select(org_code, admissions) %>% 
-  print(n = 274)
+  distinct(org_code) %>% 
+  pull(org_code) %>% 
+  as.character()
 ```
 
 # Parameterized Reporting is the Solution
